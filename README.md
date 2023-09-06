@@ -1,2 +1,2 @@
 # Depression-Detector
-A multi staged mechanism to assist in the depression detection process.
+A multi staged mechanism to assist in the depression detection process.(hack)
